@@ -1,10 +1,10 @@
 import React from 'react'
-import DesignedCounter from './Components/DesignedCounter'
+import IndianTour from './IndiaTour/IndianTour'
 
 function App() {
   return (
     <div>
-      <DesignedCounter/>
+      <IndianTour/>
     </div>
   )
 }
